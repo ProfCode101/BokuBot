@@ -1,0 +1,6 @@
+boku
+.env
+__pycache__
+boku_vectore_store
+Dockerfile
+creating_vector_store.py
