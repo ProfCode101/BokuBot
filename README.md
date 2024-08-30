@@ -4,7 +4,7 @@ BOKU is a chatbot application designed for BRAC University students to get help 
 ## Features
 
 - **Interactive Chat**: Engage in a conversation with BOKU, the chatbot assistant.
-- **Contextual Assistance**: BOKU provides answers based on a preloaded vector database.
+- **Contextual Assistance**: BOKU provides answers based on a preloaded vector database. The vector database is built on the contents of the BRACU website. I collected the individual webpage urls from the sitemap of the website which are provided as a list in the [urls_list.py] file.
 - **History Tracking**: Maintains chat history for a coherent conversation experience.
 
 ## Requirements
